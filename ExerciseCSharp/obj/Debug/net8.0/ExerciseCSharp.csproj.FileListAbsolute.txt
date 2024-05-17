@@ -1,0 +1,14 @@
+C:\Users\darkx\Source\Repos\Mr-Wolfx\Project_Exercise_C_Sharp\ExerciseCSharp\bin\Debug\net8.0\ExerciseCSharp.exe
+C:\Users\darkx\Source\Repos\Mr-Wolfx\Project_Exercise_C_Sharp\ExerciseCSharp\bin\Debug\net8.0\ExerciseCSharp.deps.json
+C:\Users\darkx\Source\Repos\Mr-Wolfx\Project_Exercise_C_Sharp\ExerciseCSharp\bin\Debug\net8.0\ExerciseCSharp.runtimeconfig.json
+C:\Users\darkx\Source\Repos\Mr-Wolfx\Project_Exercise_C_Sharp\ExerciseCSharp\bin\Debug\net8.0\ExerciseCSharp.dll
+C:\Users\darkx\Source\Repos\Mr-Wolfx\Project_Exercise_C_Sharp\ExerciseCSharp\bin\Debug\net8.0\ExerciseCSharp.pdb
+C:\Users\darkx\Source\Repos\Mr-Wolfx\Project_Exercise_C_Sharp\ExerciseCSharp\obj\Debug\net8.0\ExerciseCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darkx\Source\Repos\Mr-Wolfx\Project_Exercise_C_Sharp\ExerciseCSharp\obj\Debug\net8.0\ExerciseCSharp.AssemblyInfoInputs.cache
+C:\Users\darkx\Source\Repos\Mr-Wolfx\Project_Exercise_C_Sharp\ExerciseCSharp\obj\Debug\net8.0\ExerciseCSharp.AssemblyInfo.cs
+C:\Users\darkx\Source\Repos\Mr-Wolfx\Project_Exercise_C_Sharp\ExerciseCSharp\obj\Debug\net8.0\ExerciseCSharp.csproj.CoreCompileInputs.cache
+C:\Users\darkx\Source\Repos\Mr-Wolfx\Project_Exercise_C_Sharp\ExerciseCSharp\obj\Debug\net8.0\ExerciseCSharp.dll
+C:\Users\darkx\Source\Repos\Mr-Wolfx\Project_Exercise_C_Sharp\ExerciseCSharp\obj\Debug\net8.0\refint\ExerciseCSharp.dll
+C:\Users\darkx\Source\Repos\Mr-Wolfx\Project_Exercise_C_Sharp\ExerciseCSharp\obj\Debug\net8.0\ExerciseCSharp.pdb
+C:\Users\darkx\Source\Repos\Mr-Wolfx\Project_Exercise_C_Sharp\ExerciseCSharp\obj\Debug\net8.0\ExerciseCSharp.genruntimeconfig.cache
+C:\Users\darkx\Source\Repos\Mr-Wolfx\Project_Exercise_C_Sharp\ExerciseCSharp\obj\Debug\net8.0\ref\ExerciseCSharp.dll
