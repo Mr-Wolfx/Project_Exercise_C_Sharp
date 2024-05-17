@@ -12,3 +12,4 @@ C:\Users\darkx\Source\Repos\Mr-Wolfx\Project_Exercise_C_Sharp\ExerciseCSharp\obj
 C:\Users\darkx\Source\Repos\Mr-Wolfx\Project_Exercise_C_Sharp\ExerciseCSharp\obj\Debug\net8.0\ExerciseCSharp.pdb
 C:\Users\darkx\Source\Repos\Mr-Wolfx\Project_Exercise_C_Sharp\ExerciseCSharp\obj\Debug\net8.0\ExerciseCSharp.genruntimeconfig.cache
 C:\Users\darkx\Source\Repos\Mr-Wolfx\Project_Exercise_C_Sharp\ExerciseCSharp\obj\Debug\net8.0\ref\ExerciseCSharp.dll
+C:\Users\darkx\Source\Repos\Mr-Wolfx\Project_Exercise_C_Sharp\ExerciseCSharp\obj\Debug\net8.0\ExerciseCSharp.sourcelink.json
