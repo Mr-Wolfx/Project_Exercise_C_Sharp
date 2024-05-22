@@ -54,6 +54,28 @@ namespace CSharpExercise
 
             //Console.WriteLine(numInt); //print hello, World!
 
+
+
+
+            //Tipi di Dati
+
+            string testo = "Lorem ipsum"; // string = "testo" 
+            char carattere = 'c';  // char = 'singolo carattere'
+            int intero = 10; // int = numero intero fino a 10 mld, puo' essere negativo "-10"
+            long varlong = 2050000520550; //Long = Valore lungo
+
+            float virgola = 5.5; // float conserva tra le 6 e le 9 cifre dopo la virgola 
+            double doppi = 5.5f; //double permette di andare di due cifre dopo la virgola
+            decimal decimale = 5.5m; // decimale permette un numero piu' preciso
+
+            bool trueFalse = true; // bool = valore che puo' essere True o False
+
+
+
+                   
+
+
+
             Console.Read(); // used to make sure it doesn't close by himself, it doesn't close until you press a key
         }
 
