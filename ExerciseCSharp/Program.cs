@@ -45,21 +45,33 @@ namespace CSharpExercise
             //}
 
 
-            //float numFloat = 1.2F; //initialized variable (variabile di tipo Numeri con virgola) //F is a suffix
-            //double numDouble = 4.5684; //initialized variable (variabile di tipo Numeri con virgola ma puo' avere piu' cifre dopo la virgola)
-            //bool trueBool = true; //initialized variable (variabile di tipo booleana true)
-            //bool falseBool = false; //initialized variable (variabile di tipo booleana false)
-            //char sentChar = 'Hello World!'; //initialized variable (variabile di tipo booleana false)
-            //string textString = "Hello World!"; //initialized variable (variabile di tipo booleana false)
+        //    public class Fibonacci
+        //{
+        //    public static int Calculate(int n)
+        //    {
+        //        if (n < 2)
+        //            return n;
+        //        else
+        //            return Calculate(n - 1) + Calculate(n - 2);
+        //    }
+        //}
 
-            //Console.WriteLine(numInt); //print hello, World!
+
+        //float numFloat = 1.2F; //initialized variable (variabile di tipo Numeri con virgola) //F is a suffix
+        //double numDouble = 4.5684; //initialized variable (variabile di tipo Numeri con virgola ma puo' avere piu' cifre dopo la virgola)
+        //bool trueBool = true; //initialized variable (variabile di tipo booleana true)
+        //bool falseBool = false; //initialized variable (variabile di tipo booleana false)
+        //char sentChar = 'Hello World!'; //initialized variable (variabile di tipo booleana false)
+        //string textString = "Hello World!"; //initialized variable (variabile di tipo booleana false)
+
+        //Console.WriteLine(numInt); //print hello, World!
 
 
 
 
-            //Tipi di Dati
+        //Tipi di Dati
 
-            string testo = "Lorem ipsum"; // string = "testo" 
+        string testo = "Lorem ipsum"; // string = "testo" 
             char carattere = 'c';  // char = 'singolo carattere'
             int intero = 10; // int = numero intero fino a 10 mld, puo' essere negativo "-10"
             long varlong = 2050000520550; //Long = Valore lungo
