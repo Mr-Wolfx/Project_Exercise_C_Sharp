@@ -45,6 +45,11 @@ namespace CSharpExercise
             //}
 
 
+
+
+
+
+
         //    public class Fibonacci
         //{
         //    public static int Calculate(int n)
@@ -55,6 +60,10 @@ namespace CSharpExercise
         //            return Calculate(n - 1) + Calculate(n - 2);
         //    }
         //}
+
+
+
+
 
 
         //float numFloat = 1.2F; //initialized variable (variabile di tipo Numeri con virgola) //F is a suffix
@@ -70,6 +79,8 @@ namespace CSharpExercise
 
 
         //Tipi di Dati
+
+
 
         string testo = "Lorem ipsum"; // string = "testo" 
             char carattere = 'c';  // char = 'singolo carattere'
