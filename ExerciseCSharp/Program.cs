@@ -82,18 +82,20 @@ namespace CSharpExercise
 
 
 
-        string testo = "Lorem ipsum"; // string = "testo" 
+            string testo = "Lorem ipsum"; // string = "testo" 
+            string add = "dolor";
+            string combinazione = testo + " " + add;
             char carattere = 'c';  // char = 'singolo carattere'
             int intero = 10; // int = numero intero fino a 10 mld, puo' essere negativo "-10"
             long varlong = 2050000520550; //Long = Valore lungo
 
-            float virgola = 5.5; // float conserva tra le 6 e le 9 cifre dopo la virgola 
+            float virgola = 5.5f; // float conserva tra le 6 e le 9 cifre dopo la virgola 
             double doppi = 5.5f; //double permette di andare di due cifre dopo la virgola
             decimal decimale = 5.5m; // decimale permette un numero piu' preciso
 
             bool trueFalse = true; // bool = valore che puo' essere True o False
 
-
+            Console.WriteLine(combinazione);
 
                    
 
