@@ -50,35 +50,35 @@ namespace CSharpExercise
 
 
 
-        //    public class Fibonacci
-        //{
-        //    public static int Calculate(int n)
-        //    {
-        //        if (n < 2)
-        //            return n;
-        //        else
-        //            return Calculate(n - 1) + Calculate(n - 2);
-        //    }
-        //}
+            //    public class Fibonacci
+            //{
+            //    public static int Calculate(int n)
+            //    {
+            //        if (n < 2)
+            //            return n;
+            //        else
+            //            return Calculate(n - 1) + Calculate(n - 2);
+            //    }
+            //}
 
 
 
 
 
 
-        //float numFloat = 1.2F; //initialized variable (variabile di tipo Numeri con virgola) //F is a suffix
-        //double numDouble = 4.5684; //initialized variable (variabile di tipo Numeri con virgola ma puo' avere piu' cifre dopo la virgola)
-        //bool trueBool = true; //initialized variable (variabile di tipo booleana true)
-        //bool falseBool = false; //initialized variable (variabile di tipo booleana false)
-        //char sentChar = 'Hello World!'; //initialized variable (variabile di tipo booleana false)
-        //string textString = "Hello World!"; //initialized variable (variabile di tipo booleana false)
+            //float numFloat = 1.2F; //initialized variable (variabile di tipo Numeri con virgola) //F is a suffix
+            //double numDouble = 4.5684; //initialized variable (variabile di tipo Numeri con virgola ma puo' avere piu' cifre dopo la virgola)
+            //bool trueBool = true; //initialized variable (variabile di tipo booleana true)
+            //bool falseBool = false; //initialized variable (variabile di tipo booleana false)
+            //char sentChar = 'Hello World!'; //initialized variable (variabile di tipo booleana false)
+            //string textString = "Hello World!"; //initialized variable (variabile di tipo booleana false)
 
-        //Console.WriteLine(numInt); //print hello, World!
-
-
+            //Console.WriteLine(numInt); //print hello, World!
 
 
-        //Tipi di Dati
+
+
+            //Tipi di Dati
 
 
 
@@ -95,9 +95,15 @@ namespace CSharpExercise
 
             bool trueFalse = true; // bool = valore che puo' essere True o False
 
-            Console.WriteLine(combinazione);
+            string upper = testo.ToUpper();
 
-                   
+            Console.WriteLine(combinazione);
+            Console.WriteLine("Avvio testo: {0} {1}", testo, add); // poter scrivere una variabile all'interno delle "" utilizzando {}   
+            Console.WriteLine($"Avvio testo: {testo} {add}"); //mettendo $ all'inizio permette di richiamare le variabili all'interno delle ""
+            Console.WriteLine(upper); // apparira' "LOREM IPSUM"
+            Console.WriteLine(testo.Length); // conta la lunghezza del testo
+            Console.WriteLine(testo.IndexOf('e')); // indica dove si trova la lettera "e" in oridne di numeri a pertire da 0
+            Console.WriteLine(testo.Substring(6)); // fa partire il testo dal carattere 6, quindi -> "ipsum"
 
 
 
