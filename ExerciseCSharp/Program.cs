@@ -95,6 +95,7 @@ namespace CSharpExercise
 
             bool trueFalse = true; // bool = valore che puo' essere True o False
 
+
             string upper = testo.ToUpper();
 
             Console.WriteLine(combinazione);
