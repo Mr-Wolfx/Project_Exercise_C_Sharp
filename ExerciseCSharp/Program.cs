@@ -98,13 +98,32 @@ namespace CSharpExercise
 
             string upper = testo.ToUpper();
 
-            Console.WriteLine(combinazione);
-            Console.WriteLine("Avvio testo: {0} {1}", testo, add); // poter scrivere una variabile all'interno delle "" utilizzando {}   
-            Console.WriteLine($"Avvio testo: {testo} {add}"); //mettendo $ all'inizio permette di richiamare le variabili all'interno delle ""
-            Console.WriteLine(upper); // apparira' "LOREM IPSUM"
-            Console.WriteLine(testo.Length); // conta la lunghezza del testo
-            Console.WriteLine(testo.IndexOf('e')); // indica dove si trova la lettera "e" in oridne di numeri a pertire da 0
-            Console.WriteLine(testo.Substring(6)); // fa partire il testo dal carattere 6, quindi -> "ipsum"
+            //Console.WriteLine(combinazione);
+            //Console.WriteLine("Avvio testo: {0} {1}", testo, add); // poter scrivere una variabile all'interno delle "" utilizzando {}   
+            //Console.WriteLine($"Avvio testo: {testo} {add}"); //mettendo $ all'inizio permette di richiamare le variabili all'interno delle ""
+            //Console.WriteLine(upper); // apparira' "LOREM IPSUM"
+            //Console.WriteLine(testo.Length); // conta la lunghezza del testo
+            //Console.WriteLine(testo.IndexOf('e')); // indica dove si trova la lettera "e" in oridne di numeri a pertire da 0
+            //Console.WriteLine(testo.Substring(6)); // fa partire il testo dal carattere 6, quindi -> "ipsum"
+
+
+
+            // Calcolatrice addizionale 
+
+            Console.WriteLine("Inserisci numero 1");
+            string numero1 = Console.ReadLine();
+            Console.WriteLine("Inserisci numero 2");
+            string numero2 = Console.ReadLine();
+
+            int num1 = int.Parse(numero1);
+            int num2 = int.Parse(numero2);
+
+            int risultato = num1 + num2;
+            string result = $"La somma tra {num1} e {num2} e': {risultato}";
+
+            Console.WriteLine(result);
+
+
 
 
 
